@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550347505957",
+    "project_id": "practicano10-69999",
+    "storage_bucket": "practicano10-69999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550347505957:android:fd137742c15816c8681acc",
+        "android_client_info": {
+          "package_name": "mx.edu.potros.practicano10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2A2lpCHePpJ7_JtDG4pTLVc7hF4-n47A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
